@@ -38,7 +38,7 @@ public class AnalyzeReadability
             }
             else
             {
-                category="Very Confusing";
+                category="Very Confusing !";
             }
 
             System.out.println("\n--- Readability Analysis ---");
